@@ -1,0 +1,326 @@
+body {
+	overflow-x: hidden;
+}
+
+.background {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: -20px;
+	filter: blur(20px);
+}
+
+.background2 {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: 2550px;
+	filter: blur(20px);
+}
+
+.background3 {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: 5120px;
+	filter: blur(20px);
+}
+
+.background4 {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: 7690px;
+	filter: blur(20px);
+}
+
+.background5 {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: 10260px;
+	filter: blur(20px);
+}
+
+.background6 {
+	position: absolute;
+	width: 1600px;
+	left: -40px;
+	top: 12830px;
+	filter: blur(20px);
+}
+
+.back {
+	position: absolute;
+	width: 1500px;
+	left: 0px;
+	top: 100px;
+}
+
+.line {
+	position: absolute;
+	width: 1500px;
+	height: 100px;
+	left: 0px;
+	top: 500px;
+	filter: hue-rotate(50deg) saturate(120%) brightness(120%) blur(5px);
+}
+
+.end {
+	position: absolute;
+	width: 1000px;
+	left: 250px;
+	top: 15150px;
+}
+
+.f36 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 800px;
+}
+
+.f35 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 800px;
+}
+
+.f34 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 1600px;
+}
+
+.f33 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 1600px;
+}
+
+.f32 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 2400px;
+}
+
+.f31 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 2400px;
+}
+
+.f30 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 3200px;
+}
+
+.f29 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 3200px;
+}
+
+.f28 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 4000px;
+}
+
+.f27 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 4000px;
+}
+
+.f26 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 4800px;
+}
+
+.f25 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 4800px;
+}
+
+.f24 {
+	position: absolute;
+	width: 700px;
+	left: 100px;
+	top: 5700px;
+}
+
+.f23 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 5600px;
+}
+
+.f22 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 6400px;
+}
+
+.f21 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 6400px;
+}
+
+.f20 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 7200px;
+}
+
+.f19 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 7200px;
+}
+
+.f18 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 8000px;
+}
+
+.f17 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 8000px;
+}
+
+.f16 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 8800px;
+}
+
+.f15 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 8800px;
+}
+
+.f14 {
+	position: absolute;
+	width: 700px;
+	left: 100px;
+	top: 9700px;
+}
+
+.f13 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 9600px;
+}
+
+.f12 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 10400px;
+}
+
+.f11 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 10400px;
+}
+
+.f10 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 11200px;
+}
+
+.f9 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 11200px;
+}
+
+.f8 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 12000px;
+}
+
+.f7 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 12000px;
+}
+
+.f6 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 12800px;
+}
+
+.f5 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 12800px;
+}
+
+.f4 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 13600px;
+}
+
+.f3 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 13600px;
+}
+
+.f2 {
+	position: absolute;
+	width: 550px;
+	left: 180px;
+	top: 14400px;
+}
+
+.f1 {
+	position: absolute;
+	width: 550px;
+	left: 850px;
+	top: 14400px;
+}
